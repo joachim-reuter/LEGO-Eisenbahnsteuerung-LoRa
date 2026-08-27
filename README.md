@@ -1,5 +1,5 @@
 # LEGO-Eisenbahnsteuerung mit ESP32 und LoRa
-
+![LEGO-Eisenbahnsteuerung mit ESP32 und LoRa](.images/dampflock_steuerpult_V1.jpg)
 Drahtlose Steuerung einer LEGO-Eisenbahn mit ESP32, LoRa, TFT-Touchdisplay, Motortreiber und Sound.
 
 ## Projektübersicht

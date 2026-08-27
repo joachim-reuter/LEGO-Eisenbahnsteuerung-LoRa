@@ -1,5 +1,5 @@
 # LEGO-Eisenbahnsteuerung mit ESP32 und LoRa
-![LEGO-Eisenbahnanlage](.images/weiche_V1.jpg)
+![LEGO-Eisenbahnanlage](./.images/weiche_V1.jpg)
 Drahtlose Steuerung einer LEGO-Eisenbahn mit ESP32, LoRa, TFT-Touchdisplay, Motortreiber und Sound.
 
 ## Projektübersicht
